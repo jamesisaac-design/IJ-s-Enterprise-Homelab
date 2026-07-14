@@ -83,4 +83,4 @@ Tools used: `wg show`, `tcpdump`, `traceroute`, `ss`, `ip` suite, and FortiGate 
 
 ---
 
-Built to strengthen enterprise networking, security, and systems administration skills.
+Built to strengthen enterprise networking, security, and systems administration skills. A unique enterprise experience in the comfort of my home..
